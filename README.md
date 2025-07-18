@@ -32,10 +32,4 @@ Whether you're building a scalable solution demo or crafting a detailed response
 - Pre-sales Operations Teams
 - Product Managers supporting commercial efforts
 
-## Contribute
 
-Have an asset or idea to improve the workflow? Open a pull request or share feedback in the issues section!
-
----
-
-Let’s make Sales Engineering smoother, smarter, and more scalable ✨
