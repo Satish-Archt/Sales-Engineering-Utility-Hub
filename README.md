@@ -33,6 +33,6 @@ Whether you're building a scalable solution demo or crafting a detailed response
 - Product Managers supporting commercial efforts
 
 
-Looking for more details? Check out the Wiki section of this GitHub repo—here’s a handy link:
+Looking for more details? Check out the Wiki section of this GitHub repo, here’s a handy link:
 (https://github.com/Satish-Archt/Sales-Engineering-Utility-Hub/wiki)
 
