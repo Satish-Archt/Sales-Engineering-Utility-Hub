@@ -1,6 +1,6 @@
 # Sales Engineering Utility Hub
 
-Welcome to the **Sales Engineering Utility Hub** — your go-to repository of tools, templates, and resources designed to streamline the **end-to-end Sales Engineering process** within the Quote-to-Cash workflow.
+Welcome to the **Sales Engineering Utility Hub**  your go-to repository of tools, templates, and resources designed to streamline the **end-to-end Sales Engineering process** within the Quote-to-Cash workflow.
 
 ## 🛠Purpose
 
